@@ -1,0 +1,33 @@
+Enunciado do Projeto: Gerenciador de Tarefas em Python
+Descrição
+Desenvolva um aplicativo de console para gerenciamento de tarefas usando Python. O objetivo é permitir ao usuário adicionar tarefas, listar todas as tarefas e marcar tarefas como concluídas. Este projeto é um exemplo de como manipular listas e dicionários em Python.
+
+Requisitos
+Adicionar Tarefa: Permita ao usuário adicionar uma tarefa com uma descrição. As tarefas devem ser armazenadas em uma lista.
+Listar Tarefas: Imprima todas as tarefas com seu status (pendente ou concluída) em uma lista numerada.
+Concluir Tarefa: Permita que o usuário marque uma tarefa como concluída com base no índice da lista. Verifique se o índice fornecido é válido.
+Funcionalidades
+Adicionar novas tarefas à lista.
+Listar todas as tarefas com a indicação de seu status (pendente ou concluída).
+Marcar tarefas como concluídas usando um índice.
+
+# Gerenciador de Tarefas em Python
+
+Este projeto é um simples gerenciador de tarefas desenvolvido em Python. Ele permite adicionar, listar e marcar tarefas como concluídas. É uma ferramenta útil para acompanhar e organizar tarefas do dia a dia.
+
+## Funcionalidades
+
+- **Adicionar Tarefa**: Adicione uma nova tarefa com uma descrição.
+- **Listar Tarefas**: Exiba todas as tarefas com seu status (pendente ou concluída).
+- **Concluir Tarefa**: Marque uma tarefa como concluída com base no índice da lista.
+
+## Como Executar
+
+1. Certifique-se de ter o Python 3.x instalado em seu sistema.
+2. Salve o código em um arquivo chamado `gerenciador_tarefas.py`.
+3. Abra um terminal ou prompt de comando.
+4. Navegue até o diretório onde o arquivo `gerenciador_tarefas.py` está localizado.
+5. Execute o comando `python gerenciador_tarefas.py` para rodar o script e ver a saída das funções.
+
+## Exemplo de Uso
+
